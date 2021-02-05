@@ -1,1 +1,3 @@
-This is a starter template for [Learn Next.js](https://nextjs.org/learn).
+# NEXTJS BLOG
+
+É um projeto criado pelo tutorial fornecido pelo próprio Next.JS através do link <https://nextjs.org/learn/basics/create-nextjs-app>
